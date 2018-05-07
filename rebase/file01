@@ -1,6 +1,2 @@
 ---commit one---
-<<<<<<< HEAD
----commit on master---
-=======
->>>>>>> bee91c572e5830b2a39449047b39c2854de7ad0d
 ---commit on develop---
